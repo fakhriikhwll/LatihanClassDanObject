@@ -1,0 +1,6 @@
+D:\18.11.2265\LatihanClassDanObject\LatihanClassDanObject\obj\Debug\LatihanClassDanObject.csproj.CoreCompileInputs.cache
+D:\18.11.2265\LatihanClassDanObject\LatihanClassDanObject\bin\Debug\LatihanClassDanObject.exe.config
+D:\18.11.2265\LatihanClassDanObject\LatihanClassDanObject\bin\Debug\LatihanClassDanObject.exe
+D:\18.11.2265\LatihanClassDanObject\LatihanClassDanObject\bin\Debug\LatihanClassDanObject.pdb
+D:\18.11.2265\LatihanClassDanObject\LatihanClassDanObject\obj\Debug\LatihanClassDanObject.exe
+D:\18.11.2265\LatihanClassDanObject\LatihanClassDanObject\obj\Debug\LatihanClassDanObject.pdb
